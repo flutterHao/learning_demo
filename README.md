@@ -23,10 +23,7 @@ flutter组件学习小demo
 
 ## 部分功能展示：
 
-![image](https://github.com/mygit-Hao/learning_demo/blob/master/lib/images/show1.png) 
-
-
-![image](https://github.com/mygit-Hao/learning_demo/blob/master/lib/images/show2.png)
+![image](https://github.com/mygit-Hao/learning_demo/blob/master/lib/images/show1.png)  ![image](https://github.com/mygit-Hao/learning_demo/blob/master/lib/images/show2.png)
 
 
 ## 下载体验：
