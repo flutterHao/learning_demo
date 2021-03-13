@@ -1,4 +1,4 @@
-# learning_demo
+# 介绍
 
 flutter组件学习小demo
 
@@ -21,10 +21,13 @@ flutter组件学习小demo
 - [x] Draggable控件实例
 - [ ] 拍照、录像
 
-
 ## 部分功能展示：
 
 ![image](https://github.com/mygit-Hao/learning_demo/blob/master/lib/images/show1.png) 
 
 
 ![image](https://github.com/mygit-Hao/learning_demo/blob/master/lib/images/show2.png)
+
+
+## 下载体验：
+[项目apk](https://github.com/mygit-Hao/learning_demo/blob/master/lib/app-release.apk?raw=true)
